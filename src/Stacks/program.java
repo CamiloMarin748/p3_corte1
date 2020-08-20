@@ -7,8 +7,8 @@ public class program {
 				
 				Student s = new Student();
 				
-				System.out.println("promedio " + s.getAverage());
-				System.out.println("mayor es " + s.getBiggest());
+				System.out.println("average " + s.getAverage());
+				System.out.println("biggest " + s.getBiggest());
 				System.out.println("Difference " + s.getDiference());
 			
 					
